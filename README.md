@@ -1,6 +1,7 @@
 # Rails Girls Workshop Presentations
 
 - [Programming & The Web & Programming the Web](http://www.slideshare.net/vesan/programming-the-web-programming-the-web) by Vesa Vänskä
+- [Programming 101](https://speakerdeck.com/therod/programming-101) by Rodrigo Haenggi
 
 
 ## Adding new ones
