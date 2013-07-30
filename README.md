@@ -8,6 +8,7 @@
 - [Mom, where do Sites come from?](https://speakerdeck.com/rg_ukraine/railsgirls) by Rails Girls Ukraine
 - [The Why's of Rails Girls](https://speakerdeck.com/rg_ukraine/rg-intro-dp) by Rails Girls Ukraine
 - [Introduction to Ruby](https://speakerdeck.com/rg_ukraine/introduv) by Rails Girls Ukraine
+- [The web and programming: an introduction - Simple, short and friendly](http://www.slideshare.net/ialja/the-web-and-programming-an-introduction-simple-short-and-friendly) by Alja Isakovic
 - [Rails Girls Sofia](https://speakerdeck.com/mitio/rails-girls-sofia-31-may-1-june)
 - [How the Internet Works](https://speakerdeck.com/railsgirlsfrankfurt/how-the-internet-works)
 - [Speak Geek](https://speakerdeck.com/railsgirlsfrankfurt/speak-geek)
