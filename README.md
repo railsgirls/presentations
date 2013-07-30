@@ -5,6 +5,7 @@
 - [Programming 101](https://speakerdeck.com/therod/programming-101) by Rodrigo Haenggi
 - [Rails Girls Zurich Keynote] (https://speakerdeck.com/gr2m/rails-girls-zurich-keynote) by Gregor Martynys
 - [Introduction to Web Apps](https://speakerdeck.com/pragtob/web-application-intro-for-railsgirls-berlin-may-2013) by Tobias Pfeiffer
+- [Don’t Fear The Internet (what is: web-site, HTML, CSS, JS)](http://dont-fear-internet.herokuapp.com) by Rails Girls Ukraine
 - [Mom, where do Sites come from?](https://speakerdeck.com/rg_ukraine/railsgirls) by Rails Girls Ukraine
 - [The Why's of Rails Girls](https://speakerdeck.com/rg_ukraine/rg-intro-dp) by Rails Girls Ukraine
 - [Introduction to Ruby](https://speakerdeck.com/rg_ukraine/introduv) by Rails Girls Ukraine
