@@ -1,7 +1,7 @@
 # Rails Girls Workshop Presentations
 
 - [Programming & The Web & Programming the Web](http://www.slideshare.net/vesan/programming-the-web-programming-the-web) by Vesa Vänskä
-- [Programming for People](https://speakerdeck.com/ootoovak/programming-for-people) by Samson Ootoova
+- [Programming for People](https://speakerdeck.com/ootoovak/programming-for-people) by Samson Ootoovak
 - [Programming 101](https://speakerdeck.com/therod/programming-101) by Rodrigo Haenggi
 - [Rails Girls Zurich Keynote] (https://speakerdeck.com/gr2m/rails-girls-zurich-keynote) by Gregor Martynys
 - [Introduction to Web Apps](https://speakerdeck.com/pragtob/web-application-intro-for-railsgirls-berlin-may-2013) by Tobias Pfeiffer
