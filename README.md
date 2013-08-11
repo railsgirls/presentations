@@ -21,7 +21,7 @@
 - [¿Por qué programo? - Rails Girls](https://speakerdeck.com/yaraher/por-que-programo-rails-girls-2)
 - [Rails Girls LA Intro](https://speakerdeck.com/railsgirlsla/rails-girls-la-intro-by-jessica-lynn-suttles)
 - [Diversity is Good](https://speakerdeck.com/yotii23/diversity-is-good-railsgirls-tokyofalsequ-rizu-mito-sositeanatagaitukade-rarerumofalse)
-
+- [Git Basics - Rails Girls Canberra](http://ihacked.it/2013/08/09/basic-intro-to-git)
 
 ## Adding new ones
 
