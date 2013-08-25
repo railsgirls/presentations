@@ -22,6 +22,7 @@
 - [Rails Girls LA Intro](https://speakerdeck.com/railsgirlsla/rails-girls-la-intro-by-jessica-lynn-suttles)
 - [Diversity is Good](https://speakerdeck.com/yotii23/diversity-is-good-railsgirls-tokyofalsequ-rizu-mito-sositeanatagaitukade-rarerumofalse)
 - [Git Basics - Rails Girls Canberra](http://ihacked.it/2013/08/09/basic-intro-to-git)
+- [Learn Rails they said, it will be easy they said ](https://speakerdeck.com/floord/rails-girls-eurucamp) by Floor Drees
 
 ## Adding new ones
 
