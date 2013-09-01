@@ -12,6 +12,7 @@
 - [The web and programming: an introduction - Simple, short and friendly](http://www.slideshare.net/ialja/the-web-and-programming-an-introduction-simple-short-and-friendly) by Alja Isakovic
 - [Rails Girls Sofia](https://speakerdeck.com/mitio/rails-girls-sofia-31-may-1-june)
 - [How the Internet Works](https://speakerdeck.com/railsgirlsfrankfurt/how-the-internet-works)
+- [Being the 'Rails Girl'](http://slid.es/hephzibahwatharkar/being-the-rails-girl) by Hephzibah W
 - [Speak Geek](https://speakerdeck.com/railsgirlsfrankfurt/speak-geek)
 - [Taking the First Step](https://speakerdeck.com/railsgirlsfrankfurt/taking-the-first-step)
 - [A Brief Overview of Ruby on Rails](https://speakerdeck.com/railsgirlsfrankfurt/a-brief-overview-of-ruby-on-rails)
