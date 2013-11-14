@@ -32,6 +32,7 @@
 - [Web Apps](https://speakerdeck.com/rgpoz33/rgsoc-no-need-to-be-a-dragon) by Rails Girls Poznan
 - [Introduction to Rails Girls Poznan](https://speakerdeck.com/rgpoz33/introduction-to-rails-girls-poznan) by Rails Girls Poznan
 - [RGSoC - no need to be a dragon](https://speakerdeck.com/rgpoz33/rgsoc-no-need-to-be-a-dragon) by Rails Girls Poznan
+- [How to get in..?](http://prezi.com/vlkcx9gdmnf0/how-to-get-in/) by Martina Simicic
 
 ## Adding new ones
 
