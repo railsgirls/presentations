@@ -19,6 +19,7 @@
 - [Heroku](https://speakerdeck.com/railsgirlsfrankfurt/heroku)
 - [RailsGirlsと手榴弾とわたし](https://speakerdeck.com/yotii23/railsgirlstoshou-liu-dan-towatasi)
 - [Rails Girls Manila](https://speakerdeck.com/katgironpe/rails-girls-manila)
+- [Understanding Web Apps](http://maricrisnonato.com/presentations/understanding-web-apps.html)
 - [¿Por qué programo? - Rails Girls](https://speakerdeck.com/yaraher/por-que-programo-rails-girls-2)
 - [Rails Girls LA Intro](https://speakerdeck.com/railsgirlsla/rails-girls-la-intro-by-jessica-lynn-suttles)
 - [Diversity is Good](https://speakerdeck.com/yotii23/diversity-is-good-railsgirls-tokyofalsequ-rizu-mito-sositeanatagaitukade-rarerumofalse)
