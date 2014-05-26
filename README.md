@@ -34,6 +34,7 @@
 - [Introduction to Rails Girls Poznan](https://speakerdeck.com/rgpoz33/introduction-to-rails-girls-poznan) by Rails Girls Poznan
 - [RGSoC - no need to be a dragon](https://speakerdeck.com/rgpoz33/rgsoc-no-need-to-be-a-dragon) by Rails Girls Poznan
 - [How to get in..?](http://prezi.com/vlkcx9gdmnf0/how-to-get-in/) by Martina Simicic
+- [Programming, Web Applications and Ruby on Rails](http://de.slideshare.net/DonSchado/rails-girls-programming-web-applications-and-ruby-on-rails) by Marco Schaden
 
 ## Adding new ones
 
