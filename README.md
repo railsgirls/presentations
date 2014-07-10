@@ -31,10 +31,7 @@
 - [Being the 'Rails Girl'](http://slid.es/hephzibahwatharkar/being-the-rails-girl) by Hephzibah W
 - [Learn Rails they said, it will be easy they said ](https://speakerdeck.com/floord/rails-girls-eurucamp) by Floor Drees from Eurucamp 2013
 - [Git Basics - Rails Girls Canberra](http://ihacked.it/2013/08/09/basic-intro-to-git)
-
-
 <!--- July -->
-
 <!--- June -->
 - [¿Por qué programo? - Rails Girls](https://speakerdeck.com/yaraher/por-que-programo-rails-girls-2) by Alvaro Pereyra from Rails Girls Lima
 - [Programming for People](https://speakerdeck.com/ootoovak/programming-for-people) by Samson Ootoovak from Rails Girls Wellington
@@ -53,7 +50,6 @@
 - [Heroku](https://speakerdeck.com/railsgirlsfrankfurt/heroku) from Rails Girls Frankfurt 2013
 - [How the Internet Works](https://speakerdeck.com/railsgirlsfrankfurt/how-the-internet-works) from Rails Girls Frankfurt
 - [Diversity is Good](https://speakerdeck.com/yotii23/diversity-is-good-railsgirls-tokyofalsequ-rizu-mito-sositeanatagaitukade-rarerumofalse)
-
 <!--- February -->
 <!--- January -->
 - [Programming 101](https://speakerdeck.com/therod/programming-101) by Rodrigo Haenggi from Rails Girls Vienna 2013
