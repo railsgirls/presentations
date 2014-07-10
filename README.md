@@ -35,6 +35,12 @@
 - [RGSoC - no need to be a dragon](https://speakerdeck.com/rgpoz33/rgsoc-no-need-to-be-a-dragon) by Rails Girls Poznan
 - [How to get in..?](http://prezi.com/vlkcx9gdmnf0/how-to-get-in/) by Martina Simicic
 - [Programming, Web Applications and Ruby on Rails](http://de.slideshare.net/DonSchado/rails-girls-programming-web-applications-and-ruby-on-rails) by Marco Schaden
+- [My Story](https://speakerdeck.com/alicetragedy/railsgirls-milan-2013) by Laura Gaetano from Rails Girls Milan 2013
+- [Introduction to git](https://speakerdeck.com/alicetragedy/introduction-to-git-revisited) by Laura Gaetano from Rails Girls Linz 2014
+- [The turtle that codes](https://speakerdeck.com/nlederer/the-turtle-that-codes) by Nadja Lederer from Rails Girls Linz 2014
+- [Software is eating the world](https://speakerdeck.com/msch/railsgirls-linz-lightning-talk) by Martin Schuerrer from Rails Girls Linz 2014
+- [What if you could code all summer long?! - Rails Girls Summer of Code](https://speakerdeck.com/floord/rails-girl-all-summer-long) by Floor Drees from Rails Girls Linz 2014
+- [Where do we go from here? - A guide to the post-Rails-Girls-event blues](https://speakerdeck.com/alicetragedy/where-do-we-go-from-here) by Laura Gaetano from Rails Girls Linz 2014
 
 ## Adding new ones
 
