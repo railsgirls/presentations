@@ -10,6 +10,7 @@
 - [Introduction to git](https://speakerdeck.com/alicetragedy/introduction-to-git-revisited) by Laura Gaetano from Rails Girls Linz 2014
 - [Programming, Web Applications and Ruby on Rails](http://de.slideshare.net/DonSchado/rails-girls-programming-web-applications-and-ruby-on-rails) by Marco Schaden
 - [Rails Girls Summer of Code](https://speakerdeck.com/alicetragedy/rails-girls-summer-of-code) by Laura Gaetano from Rails Girls Ostrava 2014
+- [How the Principles of Ruby Inspired the Rails Girls Community](https://www.youtube.com/watch?list=WL&feature=player_detailpage&v=9voOUTuAlQI) by Terence Lee and Linda Liukas in RubyConf Taiwan 2014
 
 
 ### 2013
