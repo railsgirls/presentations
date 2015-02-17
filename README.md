@@ -1,8 +1,11 @@
 # Rails Girls Workshop Presentations
 
+### 2015
 
 ### 2014
 
+- [Stuck? Take a break!](https://speakerdeck.com/ramonh/stuck-take-a-break) by Ramón Huidobro from Rails Girls Vienna 2014
+- [On breaking rules (and things) beautifully](https://speakerdeck.com/alicetragedy/on-breaking-rules-and-things-beautifully) by Laura Gaetano from Rails Girls Vienna 2014
 - [Where do we go from here? - A guide to the post-Rails-Girls-event blues](https://speakerdeck.com/alicetragedy/where-do-we-go-from-here) by Laura Gaetano from Rails Girls Linz 2014
 - [The turtle that codes](https://speakerdeck.com/nlederer/the-turtle-that-codes) by Nadja Lederer from Rails Girls Linz 2014
 - [Software is eating the world](https://speakerdeck.com/msch/railsgirls-linz-lightning-talk) by Martin Schuerrer from Rails Girls Linz 2014
