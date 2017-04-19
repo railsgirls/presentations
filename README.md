@@ -1,5 +1,9 @@
 # Rails Girls Workshop Presentations
 
+### 2017
+- [O que é o Rails Girls?](slides/railsgirls-pelotas-keynote.pptx) by Daniela Petruzalek from Rails Girls Pelotas 2017
+
+
 ### 2015
 - [Introdução ao Rails](http://railsgirlsmaceio.github.io/intro-rails) by Marina Limeira from Rails Girls Maceió 2015
 - [Why do we need to talk about women in technology?](http://www.slideshare.net/MariaClaraSantana1/why-we-need-to-talk-about-women-and-technology) by Clara Santana from Rails Girls Maceió 2015
