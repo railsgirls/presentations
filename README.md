@@ -1,6 +1,7 @@
 # Rails Girls Workshop Presentations
 
 ### 2017
+- [How I celebrated my Failure as Success](http://slides.com/manelrhaiem-2/celebrating-failure#/) by Manel Rhaiem from Rails Girls Bratislava 2017
 - [O que é o Rails Girls?](slides/railsgirls-pelotas-keynote.pptx) by Daniela Petruzalek from Rails Girls Pelotas 2017
 
 
