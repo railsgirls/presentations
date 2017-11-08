@@ -1,6 +1,9 @@
 # Rails Girls Workshop Presentations
 
 ### 2017
+- [Git and Github](https://speakerdeck.com/railsgirlsmsa/git-and-github) by Austin Kabiru from Rails Girls Mombasa 2017
+- [Debugging](https://speakerdeck.com/railsgirlsmsa/debugging) by William Wanyama from Rails Girls Mombasa 2017
+- [My Story](https://speakerdeck.com/railsgirlsmsa/my-story) by Joannah Nanjekye from Rails Girls Mombasa 2017
 - [How I celebrated my Failure as Success](http://slides.com/manelrhaiem-2/celebrating-failure#/) by Manel Rhaiem from Rails Girls Bratislava 2017
 -[Git and Version Control](slides/Git-RG-Bratislava-Ramon-Huidobro-2017.pdf) by Ramón Huidobro from Rails Girls Bratislava 2017
 - [O que é o Rails Girls?](slides/railsgirls-pelotas-keynote.pptx) by Daniela Petruzalek from Rails Girls Pelotas 2017
