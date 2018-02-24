@@ -1,5 +1,8 @@
 # Rails Girls Workshop Presentations
 
+### 2018
+- [You never believe what happens next!](https://gist.github.com/FloorD/0506f31573e505c06db5362c253fe01e) by Floor Drees from Rails Girls Leiden 2018
+
 ### 2017
 - [Git and Github](https://speakerdeck.com/railsgirlsmsa/git-and-github) by Austin Kabiru from Rails Girls Mombasa 2017
 - [Debugging](https://speakerdeck.com/railsgirlsmsa/debugging) by William Wanyama from Rails Girls Mombasa 2017
